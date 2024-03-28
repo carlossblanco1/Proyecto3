@@ -1,0 +1,218 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: transparent;
+}
+
+.container_principal{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.caja1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 200px;
+    height: 270px;
+    background-color: #3c3cff;
+    border-radius: 20px;
+    color: white;
+    background-image: linear-gradient(#3c3cff, transparent);
+}
+
+.great{
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text_inferior{
+    font-size: 11px;
+    color: whitesmoke;
+}
+
+.container_number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(#0c0cff, transparent);
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+.Seventy-six{
+    font-size: 30px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: white;
+}
+
+.of_sien{
+    font-size: 10px;
+    color: whitesmoke;
+}
+
+.caja2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 270px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 20px 15px gainsboro;
+
+}
+
+.container_li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.l0{
+    width: 100px;
+    height: 20px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    display: flex;
+    text-decoration: none;
+}
+
+
+
+.l1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    width: 170px;
+    height: 25px;
+    background-color: rgba(255, 0, 0, 0.1);
+    margin-bottom: 10px;
+    font-size: 13px;
+    border-radius: 3px;
+    color: rgba(255, 0, 0, 0.7);
+}
+
+.l2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    width: 170px;
+    height: 25px;
+    background-color: rgba(231, 247, 15, 0.1);
+    margin-bottom: 10px;
+    font-size: 13px;
+    border-radius: 3px;
+    color: rgb(179, 179, 0.9);
+    
+}
+
+.l3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    width: 170px;
+    height: 25px;
+    background-color: rgba(36, 230, 165, 0.1);
+    margin-bottom: 10px;
+    font-size: 13px;
+    border-radius: 3px;
+    color: rgba(8, 116, 80, 10);
+
+}
+
+.l4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    width: 170px;
+    height: 25px;
+    background-color: rgba(49, 22, 172, 0.1);
+    margin-bottom: 10px;
+    font-size: 13px;
+    border-radius: 3px;
+    color: rgba(49, 22, 172, 10);
+}
+
+span{
+    margin-top: 2px;
+    margin-left: 40px;
+    color: black;
+}
+
+.span3{
+
+    margin-left: 50px;
+}
+
+.span4{
+    margin-left: 59px;
+}
+
+.boton{
+    margin-top: 15px;
+    width: 170px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: rgb(49, 51, 78);
+    color: white;
+    border: none;
+    
+}
+
+.rayo{
+    display: flex;
+    align-items: center;
+    height: 14px;
+    margin-right: 8px;
+    color: rgba(255, 0, 0, 0.1);
+
+}
+
+
+.cerebro{
+    display: flex;
+    align-items: center;
+    height: 17px;
+    margin-right: 8px;
+    background-color: rgba(231, 247, 15, 0.1);
+}
+
+.chat{
+    display: flex;
+    justify-content: left;
+    height: 25px;
+    margin-right: 8px;
+    background-color: rgba(36, 230, 165, 0.1);
+}
+
+.ojo{
+    display: flex;
+    align-items: center;
+    height: 16px;
+    margin-right: 5px;
+    background-color: rgba(49, 22, 172, 0.1);
+}
+
